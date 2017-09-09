@@ -1,3 +1,1 @@
-import { test } from './scripts/module';
-
-console.log(test);
+import './styles/style.scss'
